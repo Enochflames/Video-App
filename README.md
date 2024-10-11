@@ -1,4 +1,4 @@
-# YouTube Clone - Video App
+# Video App
 
 A simple YouTube-like video app built using **React**, **RapidAPI**, and **Material-UI**. This app allows users to search for and watch videos, leveraging the YouTube API from RapidAPI.
 
